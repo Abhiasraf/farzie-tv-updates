@@ -1,0 +1,7 @@
+{
+  "versionCode": 9,
+  "versionName": "2.1",
+  "sha256": "6415ffe68f209ab83706d933499add1bc9aacf79abc1d80ba32493064ed947a1",
+  "notes": "Quieter update checks",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-2.1.apk"
+}
