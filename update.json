@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "2.6",
-  "sha256": "18a20ff62ffb858addec1fd2d07d345a0818ac1b901048bb138c5998bc85ba9d",
-  "notes": "\u26a1 Updates now arrive within a minute",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-2.6.apk"
+  "versionCode": 15,
+  "versionName": "2.7",
+  "sha256": "a9c70f194a7ecd1c4d5a7c3cec4579f90a37485aa18274800f9f988f079a21c9",
+  "notes": "\ud83d\udc96 A brand-new cute Farzie TV logo \u00b7 \ud83d\udc8c A sweet little love note every day \u00b7 \ud83c\udf38 Comfier start screen \u00b7 \u26a1 Updates arrive within a minute \u00b7 made with \u2764\ufe0f by Potol",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-2.7.apk"
 }
