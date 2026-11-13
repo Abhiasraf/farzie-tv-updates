@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "2.2",
-  "sha256": "12fe4f3fe4ef84b3abc56d2d7ab3b5d3b0343dfb26f6e55510072047d3d26e79",
-  "notes": "\ud83d\udd19 BACK now quits (press twice on the start screen) \u00b7 \u2728 Check for updates button \u00b7 \ud83d\udc8c What's new card \u00b7 \ud83d\udc96 Cuter look with floating hearts \u00b7 made with \u2764\ufe0f by Potol",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-2.2.apk"
+  "versionCode": 11,
+  "versionName": "2.3",
+  "sha256": "83fa4019962198651c27fd25a0353b25dc30392c81280ef2fa1e09da439f5fa1",
+  "notes": "\ud83d\udd19 BACK now quits (press twice on the start screen) \u00b7 \u2728 Check for updates button \u00b7 \ud83d\udc8c What's new card \u00b7 \ud83d\udc96 Cuter look with floating hearts \u00b7 \u26a1 Updates show up instantly \u00b7 made with \u2764\ufe0f by Potol",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-2.3.apk"
 }
