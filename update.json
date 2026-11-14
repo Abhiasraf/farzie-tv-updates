@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "2.10",
-  "sha256": "9ec12d32eab931007216f9cdbac13a0dd366292ec9d78306e0d2ecd64f4f8b8b",
-  "notes": "\ud83c\udf38 KissKH, 123Movies & NetMirror dressed in Farzie pink \u00b7 \ud83d\udc97 Posters lift and glow under the remote \u00b7 \ud83d\udd19 BACK returns to the show you opened \u00b7 \u25b6\ufe0f Focus lands on Watch/Play by itself \u00b7 \ud83d\udc94 Friendly note when NetMirror won't play on TV",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-2.10.apk"
+  "versionCode": 19,
+  "versionName": "2.11",
+  "sha256": "ae6bbd6eecf4ef502293d1b0cbfedc128961ffa1221e87bdda3340b35a39813b",
+  "notes": "\ud83d\udd01 If a NetMirror server won't play, Farzie TV tries the next one by itself \u00b7 \ud83c\udfa7 New Audio & subtitles menu \u2014 press \u25b2 or \u25bc while watching \u00b7 \ud83d\udde3 Remembers her favourite language \u00b7 \ud83d\udc97 Fewer 'won't play' surprises",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-2.11.apk"
 }
