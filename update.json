@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "2.8",
-  "sha256": "7c4e503af66c9cc210bb014fa87d07f5ae192feb87858be5aa165651d88803c9",
-  "notes": "\ud83d\udc96 Little polish and fixes \u00b7 \ud83c\udf38 Everything running smooth and cosy",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-2.8.apk"
+  "versionCode": 17,
+  "versionName": "2.9",
+  "sha256": "fe427428f8e41f1079954b07db54f4695718cfbfe14a3403736fc787d304d022",
+  "notes": "\ud83d\udc8c Little love notes can now arrive any time \u00b7 \ud83c\udf38 Fresh daily notes without app updates \u00b7 \ud83d\udee0\ufe0f What's new fixed",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-2.9.apk"
 }
