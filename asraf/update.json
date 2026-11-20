@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0",
-  "sha256": "631e4b0ba4ecfa787ad9ac22a18b8224daf560b3a1c7435e981a313f223cc910",
-  "notes": "First release: NetMirror, KissKH, 123Movies and ThugTV in one modern, remote-friendly app",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-1.0.apk"
+  "versionCode": 3,
+  "versionName": "1.1",
+  "sha256": "d94d00d64d2bea9bd4b452198bdec7a2d65e425f7f8368d7c0f809d2bc9c2bb9",
+  "notes": "Blue icon on the error screen (no more pink heart)",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-1.1.apk"
 }
