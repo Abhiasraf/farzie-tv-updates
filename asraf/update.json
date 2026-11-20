@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "2.0",
-  "sha256": "7407fc13bf281ee468e8d690e0495be12227ca21cb927a3becd82b4911bee8a6",
-  "notes": "Native Google TV app: poster rows, search, title pages with seasons & episodes, Continue watching \u00b7 Play goes straight to full screen \u00b7 ThugTV removed, MKVBase search added",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-2.0.apk"
+  "versionCode": 5,
+  "versionName": "2.1",
+  "sha256": "38e84a6fc537dd40106624e9283eecf9fc984a1e2b273ac74bec9bf8f1a42c9e",
+  "notes": "Prettier full-screen player: show & episode name, big play/pause button, time left, cleaner controls",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-2.1.apk"
 }
