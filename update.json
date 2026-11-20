@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "2.11",
-  "sha256": "ae6bbd6eecf4ef502293d1b0cbfedc128961ffa1221e87bdda3340b35a39813b",
-  "notes": "\ud83d\udd01 If a NetMirror server won't play, Farzie TV tries the next one by itself \u00b7 \ud83c\udfa7 New Audio & subtitles menu \u2014 press \u25b2 or \u25bc while watching \u00b7 \ud83d\udde3 Remembers her favourite language \u00b7 \ud83d\udc97 Fewer 'won't play' surprises",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-2.11.apk"
+  "versionCode": 20,
+  "versionName": "2.12",
+  "sha256": "0d418207c6b095e146af337b59d9153773de801f4b8dd783f1110df9f358df78",
+  "notes": "\ud83d\udcfa New: ThugTV \u2014 Indian TV & reality shows like Khatron Ke Khiladi",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-2.12.apk"
 }
