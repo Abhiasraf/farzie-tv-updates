@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "3.2",
-  "sha256": "cb39a23b92b3cd538eaf2ac9e26084b5016cc638405ac7cd069016acbcf11933",
-  "notes": "Fixed: shows weren't playing. The app now gives each server enough time to start \u00b7 The backup server's ad is still skipped automatically",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-3.2.apk"
+  "versionCode": 24,
+  "versionName": "3.3",
+  "sha256": "825c4726a7f3ae02ac33119e9b201c9c397f14047816b9f98aba81317c13ff36",
+  "notes": "Shows start faster: the app remembers which server played each show and tries it first \u00b7 A small bar shows which server is loading, so you know it isn't stuck \u00b7 Bigg Boss and Khatron Ke Khiladi lead the big picture on Home",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-3.3.apk"
 }
