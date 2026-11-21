@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "4.1",
-  "sha256": "ff20d2ecd3fa900f86400041833aa05a1e7ca054a1f0c7ea21e0db0a51590326",
-  "notes": "Indian TV favourites on Home: Bigg Boss, Khatron Ke Khiladi, Taarak Mehta, Kapil Sharma, Laughter Chefs, Anupamaa and more \u00b7 The big picture at the top now mixes these in with what's trending \u00b7 Fixed rows staying over the picture after going back",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.1.apk"
+  "versionCode": 17,
+  "versionName": "4.2",
+  "sha256": "bdbd545b8a5e74101a969a3dc672a159fe3c3decf64a2de249bae9930c9e4ba6",
+  "notes": "Favourites like Bigg Boss and Taarak Mehta come first in search \u00b7 Fixed some cards missing their name \u00b7 The focus outline no longer sits over a playing video",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.2.apk"
 }
