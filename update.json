@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "3.3",
-  "sha256": "825c4726a7f3ae02ac33119e9b201c9c397f14047816b9f98aba81317c13ff36",
-  "notes": "Shows start faster: the app remembers which server played each show and tries it first \u00b7 A small bar shows which server is loading, so you know it isn't stuck \u00b7 Bigg Boss and Khatron Ke Khiladi lead the big picture on Home",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-3.3.apk"
+  "versionCode": 25,
+  "versionName": "3.4",
+  "sha256": "618962f1371ce72a9f0cb9be24b2d687048a5a04e8f36b0a1b78b7894250e25e",
+  "notes": "Continue watching: shows you've started appear first on Home with a progress bar, and pick up where you left off \u00b7 Fixed show pages sometimes loading forever \u00b7 A proper loading screen with the show's picture while an episode starts \u00b7 Play on the big picture now always plays the title you're looking at \u00b7 Smoother playback",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-3.4.apk"
 }
