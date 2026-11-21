@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "3.0",
-  "sha256": "d126aae02885a7a0e0e7482792dde322874905640770a302135502c131b82099",
-  "notes": "New: All Shows \u2014 Colors, Star Plus & Sony rows, every season of Khatron Ke Khiladi and Bigg Boss, search everything \u00b7 3 servers per episode (Nxsha, NovaHD, SmashyStream), switches automatically if one fails \u00b7 start-screen remote fix",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-3.0.apk"
+  "versionCode": 13,
+  "versionName": "3.1",
+  "sha256": "ae04de2bf8ea3d95f83632b9fe46376196d20e7b9043954af3917d2ffa783317",
+  "notes": "All Shows is now the only source: Colors, Star Plus & Sony TV, every season of Khatron Ke Khiladi and Bigg Boss, 3 servers per episode \u00b7 NetMirror, KissKH and 123Movies removed",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-3.1.apk"
 }
