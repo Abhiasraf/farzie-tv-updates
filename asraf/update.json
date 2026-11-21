@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "5.0",
-  "sha256": "b7674202b9b8991b7b598725f1b94e78e6bc0d5589b34b5fba51e64e00fcc5ce",
-  "notes": "American English throughout (e.g. 'Indian TV favorites')",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-5.0.apk"
+  "versionCode": 26,
+  "versionName": "5.1",
+  "sha256": "481578fcae99bb063ffa825a7465e12691623cc990d4394c55ab148ee0f6772d",
+  "notes": "Episodes start in seconds: while you're on a show's page, the episode on the Play button (or the one you rest on) loads quietly in the background, so pressing Play starts it almost at once \u00b7 Remembers which server works for each season, and keeps a server that works unless it fails several times in a row",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-5.1.apk"
 }
