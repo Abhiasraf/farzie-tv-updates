@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "5.1",
-  "sha256": "481578fcae99bb063ffa825a7465e12691623cc990d4394c55ab148ee0f6772d",
-  "notes": "Episodes start in seconds: while you're on a show's page, the episode on the Play button (or the one you rest on) loads quietly in the background, so pressing Play starts it almost at once \u00b7 Remembers which server works for each season, and keeps a server that works unless it fails several times in a row",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-5.1.apk"
+  "versionCode": 27,
+  "versionName": "5.2",
+  "sha256": "7967ff4a45b3aea32cdc79589a801202dfc4b64a3fe06e2e2d7bdcceba04e4f4",
+  "notes": "Check for updates button beside Search \u00b7 Updates install as soon as you leave the app, however you leave it \u00b7 Search no longer says 'nothing found' while it's still looking",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-5.2.apk"
 }
