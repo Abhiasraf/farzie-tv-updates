@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "3.2",
-  "sha256": "c6e8f1e055798afe3184a80886efc027585be9428c23f58191762bdf6b674953",
-  "notes": "Trending today & this week \u00b7 Hindi, Bangla, Korean and Chinese shows and movies \u00b7 Colors, Star Plus, Sony TV \u00b7 popular movies",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-3.2.apk"
+  "versionCode": 15,
+  "versionName": "4.0",
+  "sha256": "dc84f9c8b6748d1fe4a2afe38124d9efb08172159be54046e788b19d8cd5af4e",
+  "notes": "New Apple TV-style home: full-screen billboard with title logo, score, year, genre and rating; Home / Movies / Series tabs and search in a glass bar at the top. No more source screen: the app opens straight to Home. New title pages and a TV keyboard search.",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.0.apk"
 }
