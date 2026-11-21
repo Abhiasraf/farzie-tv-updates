@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "4.6",
-  "sha256": "d276452baee8063827901978bc73864389fb3ed3290c5887dbdbbb8956deef7f",
-  "notes": "Shows start faster: the app remembers which server played each show and tries it first (Khatron now starts in about 10 seconds) \u00b7 A small bar shows which server is loading, so you know it isn't stuck \u00b7 Presses the player's play button when a server waits for it",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.6.apk"
+  "versionCode": 22,
+  "versionName": "4.7",
+  "sha256": "4d12cb74de36d7a2e574559d3ae8ed81d92a80b4172ca1e7d5fb89ca7c3b5955",
+  "notes": "Smoother playback: the app does much less work while a video plays, so far fewer dropped frames on the Chromecast \u00b7 Khatron starts on the server that works for it \u00b7 NOVA's ad is ended instantly",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.7.apk"
 }
