@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "2.12",
-  "sha256": "0d418207c6b095e146af337b59d9153773de801f4b8dd783f1110df9f358df78",
-  "notes": "\ud83d\udcfa New: ThugTV \u2014 Indian TV & reality shows like Khatron Ke Khiladi",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-2.12.apk"
+  "versionCode": 21,
+  "versionName": "3.0",
+  "sha256": "5b44b4dbe099131ffc82f5df9e36282b45bfa4ebafc2609902cdd84d963bfc21",
+  "notes": "A brand-new Home with Movies and Series tabs and search \u00b7 Indian TV favourites: Bigg Boss, Khatron Ke Khiladi, Taarak Mehta and more \u00b7 Every Khatron and Bigg Boss season, with backup servers if one doesn't play \u00b7 New title pages, Continue watching and a TV keyboard search \u00b7 Opens straight to Home",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-3.0.apk"
 }
