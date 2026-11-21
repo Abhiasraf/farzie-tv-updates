@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "3.4",
-  "sha256": "618962f1371ce72a9f0cb9be24b2d687048a5a04e8f36b0a1b78b7894250e25e",
-  "notes": "Continue watching: shows you've started appear first on Home with a progress bar, and pick up where you left off \u00b7 Fixed show pages sometimes loading forever \u00b7 A proper loading screen with the show's picture while an episode starts \u00b7 Play on the big picture now always plays the title you're looking at \u00b7 Smoother playback",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-3.4.apk"
+  "versionCode": 26,
+  "versionName": "4.0",
+  "sha256": "1e30a17bbb69c298a84e3854160db16dcb5f3fc2fff279ecbc9716ed776b26f5",
+  "notes": "Episodes open straight into the full-screen player: pick an episode, a loading screen finds a working source, then it plays full screen by itself \u00b7 Continue watching remembers where you stopped \u00b7 Khatron starts on the server that works for it \u00b7 Fixed show pages sometimes loading forever \u00b7 American English throughout",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-4.0.apk"
 }
