@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "3.0",
-  "sha256": "5b44b4dbe099131ffc82f5df9e36282b45bfa4ebafc2609902cdd84d963bfc21",
-  "notes": "A brand-new Home with Movies and Series tabs and search \u00b7 Indian TV favourites: Bigg Boss, Khatron Ke Khiladi, Taarak Mehta and more \u00b7 Every Khatron and Bigg Boss season, with backup servers if one doesn't play \u00b7 New title pages, Continue watching and a TV keyboard search \u00b7 Opens straight to Home",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-3.0.apk"
+  "versionCode": 22,
+  "versionName": "3.1",
+  "sha256": "a84d95afcef8b36b21278e8922384c8e7512c04915b115ae1765883389a40aa5",
+  "notes": "A new Liquid Glass look: buttons, tabs, panels and episode tiles are soft, glowing glass \u00b7 Shows start much faster: if one server isn't working, the next one is tried after about 12\u201320 seconds \u00b7 The 40-second ad on the backup server is skipped automatically",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-3.1.apk"
 }
