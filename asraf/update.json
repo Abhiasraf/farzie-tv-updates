@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "4.5",
-  "sha256": "ff00411532fe13273a12cbac5dd263675e07869569fc1fef28812d5766ff7291",
-  "notes": "Bigg Boss and Khatron Ke Khiladi now always lead the big picture on Home and Series",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.5.apk"
+  "versionCode": 21,
+  "versionName": "4.6",
+  "sha256": "d276452baee8063827901978bc73864389fb3ed3290c5887dbdbbb8956deef7f",
+  "notes": "Shows start faster: the app remembers which server played each show and tries it first (Khatron now starts in about 10 seconds) \u00b7 A small bar shows which server is loading, so you know it isn't stuck \u00b7 Presses the player's play button when a server waits for it",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.6.apk"
 }
