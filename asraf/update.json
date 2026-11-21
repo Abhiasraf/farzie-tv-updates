@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "4.0",
-  "sha256": "dc84f9c8b6748d1fe4a2afe38124d9efb08172159be54046e788b19d8cd5af4e",
-  "notes": "New Apple TV-style home: full-screen billboard with title logo, score, year, genre and rating; Home / Movies / Series tabs and search in a glass bar at the top. No more source screen: the app opens straight to Home. New title pages and a TV keyboard search.",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.0.apk"
+  "versionCode": 16,
+  "versionName": "4.1",
+  "sha256": "ff20d2ecd3fa900f86400041833aa05a1e7ca054a1f0c7ea21e0db0a51590326",
+  "notes": "Indian TV favourites on Home: Bigg Boss, Khatron Ke Khiladi, Taarak Mehta, Kapil Sharma, Laughter Chefs, Anupamaa and more \u00b7 The big picture at the top now mixes these in with what's trending \u00b7 Fixed rows staying over the picture after going back",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.1.apk"
 }
