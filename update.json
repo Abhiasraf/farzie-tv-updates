@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "4.1",
-  "sha256": "d6336a5e805c14a3bdee7fc5d3e290bb976b1259c2eac0ef9631869f4a687721",
-  "notes": "Episodes start in seconds: the episode on the Play button (or the one you rest on) loads quietly in the background while you're on a show's page \u00b7 Remembers which server works for each season \u00b7 Full-screen player, Continue watching, and many fixes",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-4.1.apk"
+  "versionCode": 28,
+  "versionName": "4.2",
+  "sha256": "e968d14b0a24bf00370a44dff1b3dc81cf986e8f43d2389c65c89dbafe65e8bc",
+  "notes": "Search shows the most popular matches first and finds shows from part of a word (e.g. 'frie' finds Friends) \u00b7 Check for updates button beside Search \u00b7 Updates install as soon as you leave the app, however you leave it",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-4.2.apk"
 }
