@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "2.6",
-  "sha256": "19b625eacdec8b1f6e2769ebebd821848fdfe3ba40a9af1ab4d4dd2bb89bc78e",
-  "notes": "Modern seasons & episodes (tabs + episode tiles), clear message when a title was removed from NetMirror, poster spacing fix",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-2.6.apk"
+  "versionCode": 11,
+  "versionName": "2.7",
+  "sha256": "2791cb1b6182e4df6b9fcdacc122657e3590ab15456de136b831d9e3af3c5eff",
+  "notes": "NetMirror opens every title again (no more 'Gone' pages) \u00b7 if no server can play a title on TV, you're taken back with a clear message \u00b7 cleaner descriptions",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-2.7.apk"
 }
