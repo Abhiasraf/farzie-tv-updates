@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "4.4",
-  "sha256": "7188a3c4c8373a8b6552b9e97170998aa6397b451c126ada20f49b8bb0cd6ce3",
-  "notes": "Fixed: servers were being skipped before they had time to start, so some episodes didn't play",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.4.apk"
+  "versionCode": 20,
+  "versionName": "4.5",
+  "sha256": "ff00411532fe13273a12cbac5dd263675e07869569fc1fef28812d5766ff7291",
+  "notes": "Bigg Boss and Khatron Ke Khiladi now always lead the big picture on Home and Series",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.5.apk"
 }
