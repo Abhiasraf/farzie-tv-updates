@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "4.7",
-  "sha256": "4d12cb74de36d7a2e574559d3ae8ed81d92a80b4172ca1e7d5fb89ca7c3b5955",
-  "notes": "Smoother playback: the app does much less work while a video plays, so far fewer dropped frames on the Chromecast \u00b7 Khatron starts on the server that works for it \u00b7 NOVA's ad is ended instantly",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.7.apk"
+  "versionCode": 23,
+  "versionName": "4.8",
+  "sha256": "a76f3074f89063dcb9a8afb1afe75d9ffba7f1bfa5668cf86d503627a95a0eda",
+  "notes": "Continue watching: shows you've started appear first on Home with a progress bar, and pick up where you left off \u00b7 Fixed show pages sometimes loading forever \u00b7 A proper loading screen with the show's picture while an episode starts \u00b7 Play on the big picture now always plays the title you're looking at \u00b7 Smoother playback",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.8.apk"
 }
