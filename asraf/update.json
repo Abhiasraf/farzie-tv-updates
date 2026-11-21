@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "4.8",
-  "sha256": "a76f3074f89063dcb9a8afb1afe75d9ffba7f1bfa5668cf86d503627a95a0eda",
-  "notes": "Continue watching: shows you've started appear first on Home with a progress bar, and pick up where you left off \u00b7 Fixed show pages sometimes loading forever \u00b7 A proper loading screen with the show's picture while an episode starts \u00b7 Play on the big picture now always plays the title you're looking at \u00b7 Smoother playback",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.8.apk"
+  "versionCode": 24,
+  "versionName": "4.9",
+  "sha256": "ca67bd83e2284eca08e91c90abfbbd89091ebd5eb71663daec7b2e317a92b228",
+  "notes": "Episodes open straight into the full-screen player: pick an episode, a loading screen finds a working source, then it plays full screen by itself (no website, no clicking Play or Full screen) \u00b7 No more 'Blocked a redirect' pop-ups",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.9.apk"
 }
