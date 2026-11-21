@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "2.4",
-  "sha256": "b74b3e8a12611b86a09c1280f5427c3f0cc42d1f4618d4e53e4513001e994889",
-  "notes": "Redesigned: posters shown whole (no cropping), clean titles, Netflix-style billboard that steps aside as you browse, title pages with the full poster",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-2.4.apk"
+  "versionCode": 9,
+  "versionName": "2.5",
+  "sha256": "e22a5e4cb3a122c9e6c4eccfe3504e7e3f175a3804c532e7958f4f5284f69d62",
+  "notes": "Much faster: sources open in about a second (they warm up while you're on the start screen and remember their last screen)",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-2.5.apk"
 }
