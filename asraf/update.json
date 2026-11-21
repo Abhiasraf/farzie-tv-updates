@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "5.3",
-  "sha256": "badb65fd524e38a7ba7d4ecac6721baa1cd8ddeaaef01eabd7b7e0d9124a9d85",
-  "notes": "Small improvements",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-5.3.apk"
+  "versionCode": 29,
+  "versionName": "5.4",
+  "sha256": "af303435ed6a2f7ce3efd77ae7e587958bb70e83a83257c155a8f131e3cd555b",
+  "notes": "Search shows the most popular matches first and finds shows from part of a word (e.g. 'frie' finds Friends) \u00b7 Check for updates button beside Search \u00b7 Updates install as soon as you leave the app, however you leave it",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-5.4.apk"
 }
