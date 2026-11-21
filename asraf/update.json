@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "2.5",
-  "sha256": "e22a5e4cb3a122c9e6c4eccfe3504e7e3f175a3804c532e7958f4f5284f69d62",
-  "notes": "Much faster: sources open in about a second (they warm up while you're on the start screen and remember their last screen)",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-2.5.apk"
+  "versionCode": 10,
+  "versionName": "2.6",
+  "sha256": "19b625eacdec8b1f6e2769ebebd821848fdfe3ba40a9af1ab4d4dd2bb89bc78e",
+  "notes": "Modern seasons & episodes (tabs + episode tiles), clear message when a title was removed from NetMirror, poster spacing fix",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-2.6.apk"
 }
