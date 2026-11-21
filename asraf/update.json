@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "4.3",
-  "sha256": "d409bbddab86d56c12cfa3d36f4bd66fcac1b0f76370e3637ed37fcc34fa02d0",
-  "notes": "Liquid Glass design: buttons, tabs, panels and episode tiles are now blurred, light-catching glass \u00b7 Starts playing much faster: a server that isn't working is skipped after about 12\u201320 seconds instead of 45 \u00b7 NOVA's 40-second ad before episodes is skipped automatically",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.3.apk"
+  "versionCode": 19,
+  "versionName": "4.4",
+  "sha256": "7188a3c4c8373a8b6552b9e97170998aa6397b451c126ada20f49b8bb0cd6ce3",
+  "notes": "Fixed: servers were being skipped before they had time to start, so some episodes didn't play",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-4.4.apk"
 }
