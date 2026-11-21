@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "2.3",
-  "sha256": "bbbcdd3258443690a8c8f6d5b0f6812097cdba8db583ff8ec1f07ab05284499f",
-  "notes": "Apple TV\u2013style audio & subtitles sheet (press \u25b2/\u25bc while watching) \u00b7 glass player bar \u00b7 search jumps to results \u00b7 MKVBase removed",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-2.3.apk"
+  "versionCode": 8,
+  "versionName": "2.4",
+  "sha256": "b74b3e8a12611b86a09c1280f5427c3f0cc42d1f4618d4e53e4513001e994889",
+  "notes": "Redesigned: posters shown whole (no cropping), clean titles, Netflix-style billboard that steps aside as you browse, title pages with the full poster",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-2.4.apk"
 }
