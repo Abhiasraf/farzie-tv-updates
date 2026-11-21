@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "5.2",
-  "sha256": "7967ff4a45b3aea32cdc79589a801202dfc4b64a3fe06e2e2d7bdcceba04e4f4",
-  "notes": "Check for updates button beside Search \u00b7 Updates install as soon as you leave the app, however you leave it \u00b7 Search no longer says 'nothing found' while it's still looking",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-5.2.apk"
+  "versionCode": 28,
+  "versionName": "5.3",
+  "sha256": "badb65fd524e38a7ba7d4ecac6721baa1cd8ddeaaef01eabd7b7e0d9124a9d85",
+  "notes": "Small improvements",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-5.3.apk"
 }
