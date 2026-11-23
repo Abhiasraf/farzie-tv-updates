@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "4.3",
-  "sha256": "378aa1ce159f4fbe49e8b00fbb42ce39dd647130ee6f62b1590715bdf8f934d8",
-  "notes": "Episodes play straight in the app's own player: a loading screen while it finds a working source, then just the video, full screen \u00b7 Trailers on every show and movie page \u00b7 Air dates on every episode, release dates for movies \u00b7 More servers, and the best one for each season of Khatron, Bigg Boss and Laughter Chefs",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-4.3.apk"
+  "versionCode": 30,
+  "versionName": "5.0",
+  "sha256": "96f22f535867c56944f6ead5e8701708acc753f23ddf39dadfffd08ed683e9f2",
+  "notes": "New episodes row on Home: the latest episode of shows you watch; if you were on an older one, choose to play the latest or resume \u00b7 Latest episode stands out on every show page, the newest episode is tagged LATEST, upcoming episodes are greyed out \u00b7 Same-day episodes of Indian shows now play \u00b7 Moving into the seasons lands on the one you're watching",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.0.apk"
 }
