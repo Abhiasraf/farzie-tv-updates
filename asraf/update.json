@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "6.0",
-  "sha256": "99d7b464743219a64f164848991da8ea522affa28ceda1b852d9f5ceb699529a",
-  "notes": "Latest episode stands out on every show page (with NEW when it just aired), and the newest episode is tagged LATEST \u00b7 Upcoming episodes are greyed out and show when they air \u00b7 Same-day episodes of any Indian show now play (from YoDesi) \u00b7 Moving into the seasons lands on the one you're watching",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.0.apk"
+  "versionCode": 36,
+  "versionName": "6.1",
+  "sha256": "e6e686e61cc24159bb11e7e18d7adce2ad7719422f265be076057305b70f5ba7",
+  "notes": "Indian shows from YoDesi now play in the app's own video player: no website, no ads, smoother playback \u00b7 BACK from an episode opened on Home goes to the show's page \u00b7 Fixed episodes stuck on Loading when an ad hijacked the player \u00b7 Shows that aren't Indian no longer try YoDesi",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.1.apk"
 }
