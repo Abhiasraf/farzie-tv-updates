@@ -1,0 +1,27 @@
+{
+  "note": "Players for Farzie TV and Asraf TV. {id} = TMDB id, {s} = season, {e} = episode. Tried in order; hints say which to try first for a show (tv:ID) or season (tv:ID:sN). Edit and push: TVs pick it up the next time the app opens. 'daily' maps a season to its YoDesi show page name (episodes found by air date).",
+  "tv": [
+    "https://web.nxsha.app/watch/tv/{id}/{s}/{e}",
+    "https://novahd.cc/watch/s/{id}/{s}/{e}",
+    "https://nxsha.space/watch/tv/{id}/{s}/{e}"
+  ],
+  "movie": [
+    "https://web.nxsha.app/watch/movie/{id}",
+    "https://novahd.cc/watch/m/{id}",
+    "https://nxsha.space/watch/movie/{id}"
+  ],
+  "hints": {
+    "tv:85518": "novahd.cc",
+    "tv:85518:s6": "web.nxsha.app",
+    "tv:257530": "novahd.cc",
+    "tv:11436:s2": "novahd.cc",
+    "tv:11436:s3": "novahd.cc",
+    "tv:11436:s20": "web.nxsha.app"
+  },
+  "daily": {
+    "tv:11436:s20": "bigg-boss-20",
+    "tv:11436:s19": "bigg-boss-19",
+    "tv:85518:s15": "khatron-ke-khiladi-15",
+    "tv:257530:s3": "laughter-chefs-3"
+  }
+}
