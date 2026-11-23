@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "6.1",
-  "sha256": "e6e686e61cc24159bb11e7e18d7adce2ad7719422f265be076057305b70f5ba7",
-  "notes": "Indian shows from YoDesi now play in the app's own video player: no website, no ads, smoother playback \u00b7 BACK from an episode opened on Home goes to the show's page \u00b7 Fixed episodes stuck on Loading when an ad hijacked the player \u00b7 Shows that aren't Indian no longer try YoDesi",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.1.apk"
+  "versionCode": 37,
+  "versionName": "6.2",
+  "sha256": "bf1484c136bb8cdcd5d1c8c648a2787279e357fc6d642db572755638352c13d4",
+  "notes": "YoDesi is now used only for the current season of Indian shows (and goes first there); older seasons use the other servers",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.2.apk"
 }
