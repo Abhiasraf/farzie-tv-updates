@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "5.9",
-  "sha256": "31c66acb64dde3c7a2994445caf11c251985e87ffc8fb6192b113b887768e944",
-  "notes": "New episodes shows one card per show (its latest episode). If you were on an older episode, you choose: play the latest, or resume where you left off",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-5.9.apk"
+  "versionCode": 35,
+  "versionName": "6.0",
+  "sha256": "99d7b464743219a64f164848991da8ea522affa28ceda1b852d9f5ceb699529a",
+  "notes": "Latest episode stands out on every show page (with NEW when it just aired), and the newest episode is tagged LATEST \u00b7 Upcoming episodes are greyed out and show when they air \u00b7 Same-day episodes of any Indian show now play (from YoDesi) \u00b7 Moving into the seasons lands on the one you're watching",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.0.apk"
 }
