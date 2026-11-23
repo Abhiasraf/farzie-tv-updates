@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "5.7",
-  "sha256": "ac6d1a2e48e6e2ac465211c2535ef05ed52bc1c2123bda844ea1c0085e77fc46",
-  "notes": "Dates everywhere: release date for movies, first aired and latest episode for shows, in the info box on every page",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-5.7.apk"
+  "versionCode": 33,
+  "versionName": "5.8",
+  "sha256": "e24048880a74a786d69611597b388659c2e1e51fde1870dab5f07b0d878e2ba6",
+  "notes": "New episodes row on Home: the latest episodes of shows you've watched, with their air date; pick one and it plays right away",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-5.8.apk"
 }
