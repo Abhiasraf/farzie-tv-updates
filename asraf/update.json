@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "6.4",
-  "sha256": "8722dd7c5af8655114b53161fa5f6c3bd602696aafe4ae3e745a8d325dc2c432",
-  "notes": "New Home: trending shows/movies, popular, Asian/Indian/Pakistani sections (favorites still lead the billboard). Live TV now opens on a Live-now home with the day's games and a player screen that full-screens on OK. Live sport row on the main Home. Audio fix: live and dubbed titles play with sound, default English; language names shown in English.",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.4.apk"
+  "versionCode": 40,
+  "versionName": "6.5",
+  "sha256": "61f3427c08d0905de7ebedf6ae29c452a81a7c0ea1570bb4cc188bd397d6320a",
+  "notes": "Home tidied: one Asian shows and one Asian movies row (Korean/Chinese/Japanese together), and your Indian favourites (Bigg Boss, Khatron, Laughter Chefs) lead the billboard again. Fixed: the Play / More info buttons no longer stay on screen over the rows when you scroll down.",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.5.apk"
 }
