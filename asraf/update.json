@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "6.5",
-  "sha256": "61f3427c08d0905de7ebedf6ae29c452a81a7c0ea1570bb4cc188bd397d6320a",
-  "notes": "Home tidied: one Asian shows and one Asian movies row (Korean/Chinese/Japanese together), and your Indian favourites (Bigg Boss, Khatron, Laughter Chefs) lead the billboard again. Fixed: the Play / More info buttons no longer stay on screen over the rows when you scroll down.",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.5.apk"
+  "versionCode": 41,
+  "versionName": "6.6",
+  "sha256": "35a4e77f87b7768026aa97ad2b4e387b74ada3bef1cbcb079186c0a5665b1cd1",
+  "notes": "Home fixes: the Play / More info buttons no longer overlap or block the rows when you scroll down. Added Indian series, Indian movies, Pakistani series and Bangla sections; Asian shows/movies combine Korean, Chinese and Japanese. Live sport sits just below the trending rows, and your Indian favourites still lead the billboard.",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.6.apk"
 }
