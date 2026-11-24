@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "5.5",
-  "sha256": "86ee3094986588b37715956cbc879cac282d76ebc290d619771d8d5e9ebb7635",
-  "notes": "Fixed getting stuck at the right end of a row; home tidy-ups",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.5.apk"
+  "versionCode": 36,
+  "versionName": "5.6",
+  "sha256": "86400eab8fea08067339df11491eeebdec69ad936b66986a826107dabe995e30",
+  "notes": "Same home as Asraf, My List to save titles, this year's popular and top rated, Indian and Pakistani moved up",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.6.apk"
 }
