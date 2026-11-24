@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "5.2",
-  "sha256": "baf6b9ee7ac649b647d769ec78c510bc9437e8b6e62976c235a4858d8a55d2db",
-  "notes": "Live TV now opens on a Live-now home with the day's games and a player screen that full-screens on OK. Live sport row on the main Home. Audio fix: live and dubbed titles play with sound, default English; language names shown in English.",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.2.apk"
+  "versionCode": 33,
+  "versionName": "5.3",
+  "sha256": "dcc4f04876e95841720a410fb7762a7c155406dd7ee3c1e14f7c3d0a7e2d9a92",
+  "notes": "New cinematic logo opening. Fixed the Play / More info buttons overlapping the rows when you scroll down. Live sport sits just below the trending rows.",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.3.apk"
 }
