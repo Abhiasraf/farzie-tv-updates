@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "6.9",
-  "sha256": "103a7410f5bbe5775a57a03deebcb6ae6419bb34cc6bf2180c7b947f034aa475",
-  "notes": "Better home recommendations: real popular + top-rated picks with ratings, no repeats, longer rows; fixed getting stuck at the right end of a row",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.9.apk"
+  "versionCode": 45,
+  "versionName": "6.10",
+  "sha256": "db896440b407b7afab67b3473579e7ae90935b6b97860e59f33703dc4a01bea1",
+  "notes": "Top rated and popular now show this year's titles (2025-2026) only, not old classics; all with artwork and ratings",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.10.apk"
 }
