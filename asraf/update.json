@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "6.2",
-  "sha256": "bf1484c136bb8cdcd5d1c8c648a2787279e357fc6d642db572755638352c13d4",
-  "notes": "YoDesi is now used only for the current season of Indian shows (and goes first there); older seasons use the other servers",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.2.apk"
+  "versionCode": 38,
+  "versionName": "6.3",
+  "sha256": "dd99a22a86197efef7bd6d31f93352ef9deedbe7afeead8709167298e115f2b3",
+  "notes": "New Live TV tab: soccer and cricket games from several free sites (live games first, with club crests and country flags), league sections (Premier League, Champions League, La Liga, Serie A, Bundesliga, Ligue 1, S\u00fcper Lig), Bangladeshi channels (T Sports, Gazi TV, Somoy, Jamuna and more), and sports plus US, UK, Canada, Australia and India channels. Streams that don't work on your network are skipped, and a dead stream is passed over in 20 seconds. BACK now always leaves a loading player.",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.3.apk"
 }
