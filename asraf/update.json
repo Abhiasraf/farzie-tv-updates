@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "6.6",
-  "sha256": "35a4e77f87b7768026aa97ad2b4e387b74ada3bef1cbcb079186c0a5665b1cd1",
-  "notes": "Home fixes: the Play / More info buttons no longer overlap or block the rows when you scroll down. Added Indian series, Indian movies, Pakistani series and Bangla sections; Asian shows/movies combine Korean, Chinese and Japanese. Live sport sits just below the trending rows, and your Indian favourites still lead the billboard.",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.6.apk"
+  "versionCode": 42,
+  "versionName": "6.7",
+  "sha256": "617474e47c250e85b473a7099e8d3ba70ebbcf4d2141a09035f12498b8b76fde",
+  "notes": "Pakistani series and movies now sit above the Indian ones. Slimmer billboard so more of your rows show. Continue watching and recently aired are unchanged at the top.",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.7.apk"
 }
