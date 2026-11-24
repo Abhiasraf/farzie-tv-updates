@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "6.7",
-  "sha256": "617474e47c250e85b473a7099e8d3ba70ebbcf4d2141a09035f12498b8b76fde",
-  "notes": "Pakistani series and movies now sit above the Indian ones. Slimmer billboard so more of your rows show. Continue watching and recently aired are unchanged at the top.",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.7.apk"
+  "versionCode": 43,
+  "versionName": "6.8",
+  "sha256": "0f264689c73d15c5f7cc0383ea83ee10c15b92e8917f28fbc329cb0da77585ef",
+  "notes": "Home robustness: on a cold start the billboard no longer flashes an empty Play/More info; it holds the opening, then shows a clean loading spinner until the rows are ready.",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.8.apk"
 }
