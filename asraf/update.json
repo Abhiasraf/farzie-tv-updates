@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "6.3",
-  "sha256": "dd99a22a86197efef7bd6d31f93352ef9deedbe7afeead8709167298e115f2b3",
-  "notes": "New Live TV tab: soccer and cricket games from several free sites (live games first, with club crests and country flags), league sections (Premier League, Champions League, La Liga, Serie A, Bundesliga, Ligue 1, S\u00fcper Lig), Bangladeshi channels (T Sports, Gazi TV, Somoy, Jamuna and more), and sports plus US, UK, Canada, Australia and India channels. Streams that don't work on your network are skipped, and a dead stream is passed over in 20 seconds. BACK now always leaves a loading player.",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.3.apk"
+  "versionCode": 39,
+  "versionName": "6.4",
+  "sha256": "8722dd7c5af8655114b53161fa5f6c3bd602696aafe4ae3e745a8d325dc2c432",
+  "notes": "New Home: trending shows/movies, popular, Asian/Indian/Pakistani sections (favorites still lead the billboard). Live TV now opens on a Live-now home with the day's games and a player screen that full-screens on OK. Live sport row on the main Home. Audio fix: live and dubbed titles play with sound, default English; language names shown in English.",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.4.apk"
 }
