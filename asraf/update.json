@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "6.11",
-  "sha256": "999ed2eac3874a680b0f22076f8997dfd99cc11ff71099d11096c38646d3b1d4",
-  "notes": "New: a My List button on every show and movie to save it, with a My List row on the home screen",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.11.apk"
+  "versionCode": 47,
+  "versionName": "6.12",
+  "sha256": "58bd7548031f8446c676d01428c67cec69ac52376e00f1016c21b4df96e1b8c9",
+  "notes": "Indian and Pakistani sections moved up, right under trending; now above popular and top rated",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.12.apk"
 }
