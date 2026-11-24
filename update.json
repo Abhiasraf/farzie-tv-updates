@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "5.1",
-  "sha256": "79dae9735f758ee786b3e69babcec82d920478b1fc77f3a5ebe266f8e8136cf6",
-  "notes": "Indian shows' current seasons now play in the app's own video player: no website, no ads, smoother playback \u00b7 BACK from an episode opened on Home goes to the show's page \u00b7 Fixed episodes stuck on Loading when an ad took over the player \u00b7 Neater episode tiles",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.1.apk"
+  "versionCode": 32,
+  "versionName": "5.2",
+  "sha256": "baf6b9ee7ac649b647d769ec78c510bc9437e8b6e62976c235a4858d8a55d2db",
+  "notes": "Live TV now opens on a Live-now home with the day's games and a player screen that full-screens on OK. Live sport row on the main Home. Audio fix: live and dubbed titles play with sound, default English; language names shown in English.",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.2.apk"
 }
