@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "5.3",
-  "sha256": "dcc4f04876e95841720a410fb7762a7c155406dd7ee3c1e14f7c3d0a7e2d9a92",
-  "notes": "New cinematic logo opening. Fixed the Play / More info buttons overlapping the rows when you scroll down. Live sport sits just below the trending rows.",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.3.apk"
+  "versionCode": 34,
+  "versionName": "5.4",
+  "sha256": "ec6f5bf25b4e1f123b4d92b8961d1d41158daa16f45cf00abbea4d241c89768f",
+  "notes": "Slimmer billboard so more of your rows show. Continue watching and recently aired are unchanged at the top.",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.4.apk"
 }
