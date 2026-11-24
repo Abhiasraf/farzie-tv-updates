@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "5.4",
-  "sha256": "ec6f5bf25b4e1f123b4d92b8961d1d41158daa16f45cf00abbea4d241c89768f",
-  "notes": "Slimmer billboard so more of your rows show. Continue watching and recently aired are unchanged at the top.",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.4.apk"
+  "versionCode": 35,
+  "versionName": "5.5",
+  "sha256": "86ee3094986588b37715956cbc879cac282d76ebc290d619771d8d5e9ebb7635",
+  "notes": "Fixed getting stuck at the right end of a row; home tidy-ups",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.5.apk"
 }
