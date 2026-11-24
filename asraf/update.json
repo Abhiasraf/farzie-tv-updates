@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "6.10",
-  "sha256": "db896440b407b7afab67b3473579e7ae90935b6b97860e59f33703dc4a01bea1",
-  "notes": "Top rated and popular now show this year's titles (2025-2026) only, not old classics; all with artwork and ratings",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.10.apk"
+  "versionCode": 46,
+  "versionName": "6.11",
+  "sha256": "999ed2eac3874a680b0f22076f8997dfd99cc11ff71099d11096c38646d3b1d4",
+  "notes": "New: a My List button on every show and movie to save it, with a My List row on the home screen",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.11.apk"
 }
