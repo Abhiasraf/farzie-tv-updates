@@ -5,6 +5,7 @@
     "https://novahd.cc/watch/s/{id}/{s}/{e}",
     "https://nxsha.space/watch/tv/{id}/{s}/{e}",
     "https://7movies.ws/tv/{id}/watch?season={s}&episode={e}",
+    "https://zoryva.me/tv/{id}/x/{s}/{e}",
     "https://www.rivestream.app/watch?type=tv&id={id}&season={s}&episode={e}"
   ],
   "movie": [
@@ -12,6 +13,8 @@
     "https://novahd.cc/watch/m/{id}",
     "https://nxsha.space/watch/movie/{id}",
     "https://7movies.ws/movie/{id}/watch",
+    "https://zoryva.me/movie/{id}/x",
+    "https://basement.rest/media/tmdb-movie-{id}-x",
     "https://www.rivestream.app/watch?type=movie&id={id}"
   ],
   "hints": {
