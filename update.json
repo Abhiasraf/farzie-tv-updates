@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "5.7",
-  "sha256": "2bf192ebf9fcd75e44a0f2f342a35d89e810f0191ec9c6ca77b9c6a8495ff7e2",
-  "notes": "New Home with Bigg Boss, Khatron and Friends up top, live TV and player from Asraf TV, animated heart logo, still pink",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.7.apk"
+  "versionCode": 39,
+  "versionName": "5.9",
+  "sha256": "6102bf0e12d30e7932bedaaa39eda9f04f05d4b4daf107c3d2142c2d1942de43",
+  "notes": "Live TV opens on today's games and sits at the end of the top bar \u00b7 All channels loads faster \u00b7 Title pages show their buttons together once loaded",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.9.apk"
 }
