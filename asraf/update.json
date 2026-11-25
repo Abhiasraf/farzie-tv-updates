@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "6.12",
-  "sha256": "58bd7548031f8446c676d01428c67cec69ac52376e00f1016c21b4df96e1b8c9",
-  "notes": "Indian and Pakistani sections moved up, right under trending; now above popular and top rated",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.12.apk"
+  "versionCode": 48,
+  "versionName": "6.13",
+  "sha256": "f0ed673b8dadf8c272df6fa207cc964aa391d72960a03eae259def2d7624a28c",
+  "notes": "New home: colors from each show's artwork with glass controls \u00b7 Bigg Boss, Khatron Ke Khiladi and Friends up front, plus live Liverpool games \u00b7 Every slide shows its latest episode or release date; ended and cancelled shows say when \u00b7 Every row shows this year's most popular \u00b7 The old Live TV guide is gone: Live TV and Sports open the new screens",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.13.apk"
 }
