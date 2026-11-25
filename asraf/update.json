@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "6.16",
-  "sha256": "faa6b22d708eb77b317d9e358f104f5bfc0df850e374fcad10da8432b622fcbf",
-  "notes": "Recently Aired sits right under Continue Watching \u00b7 New Bollywood & Trending Movies row \u00b7 Indian series without daily serials",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.16.apk"
+  "versionCode": 52,
+  "versionName": "6.17",
+  "sha256": "77a030600517c06de0f52bdd4a47308cf39b98e6eb424476f2ad3cbf9d09be36",
+  "notes": "New Home order: Trending, Bollywood, Indian & Pakistani series, Asian (last 72 hours), then the big live games \u00b7 No My List row (it has its own tab)",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.17.apk"
 }

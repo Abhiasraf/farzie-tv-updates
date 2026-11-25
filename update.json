@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "5.10",
-  "sha256": "c34ce046773d647cdec3973633dab532ca09b9b9fe2f9593497d72932a846c83",
-  "notes": "Recently Aired sits right under Continue Watching \u00b7 Bigg Boss, Khatron and Laughter Chefs are in My List \u00b7 New Bollywood & Trending Movies row \u00b7 Indian series without daily serials",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.10.apk"
+  "versionCode": 41,
+  "versionName": "5.11",
+  "sha256": "837bd4c3a5259217b477018fe76652bba6c247b0e980248fdb813d0230b74442",
+  "notes": "New Home order: Trending, Bollywood, Indian & Pakistani series, Asian, then the big live games \u00b7 Romcoms and romantic dramas first, with Korean romance \u00b7 No My List row (it has its own tab)",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.11.apk"
 }
