@@ -3,12 +3,14 @@
   "tv": [
     "https://web.nxsha.app/watch/tv/{id}/{s}/{e}",
     "https://novahd.cc/watch/s/{id}/{s}/{e}",
-    "https://nxsha.space/watch/tv/{id}/{s}/{e}"
+    "https://nxsha.space/watch/tv/{id}/{s}/{e}",
+    "https://7movies.ws/tv/{id}/watch?season={s}&episode={e}"
   ],
   "movie": [
     "https://web.nxsha.app/watch/movie/{id}",
     "https://novahd.cc/watch/m/{id}",
-    "https://nxsha.space/watch/movie/{id}"
+    "https://nxsha.space/watch/movie/{id}",
+    "https://7movies.ws/movie/{id}/watch"
   ],
   "hints": {
     "tv:85518": "novahd.cc",
