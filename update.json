@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "5.12",
-  "sha256": "c98cd9117c08769d16cfc38d0b5a23460019a1017f00f93e5c0b4b7204ca812b",
-  "notes": "New player: one menu for subtitles and audio, in many languages \u00b7 Player colors from each title's artwork \u00b7 Change source tries the others by itself \u00b7 BACK closes the controls first \u00b7 Live TV uses your four best accounts",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.12.apk"
+  "versionCode": 43,
+  "versionName": "5.13",
+  "sha256": "83c8f9372d717120b6f22ad6eb7490c995b5109155f6adeaec2702eed92d5335",
+  "notes": "The TV no longer goes to sleep while a live channel or game is playing \u00b7 Faster, steadier TMDB loading \u00b7 Live TV uses the newer accounts",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.13.apk"
 }
