@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "5.11",
-  "sha256": "837bd4c3a5259217b477018fe76652bba6c247b0e980248fdb813d0230b74442",
-  "notes": "New Home order: Trending, Bollywood, Indian & Pakistani series, Asian, then the big live games \u00b7 Romcoms and romantic dramas first, with Korean romance \u00b7 No My List row (it has its own tab)",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.11.apk"
+  "versionCode": 42,
+  "versionName": "5.12",
+  "sha256": "c98cd9117c08769d16cfc38d0b5a23460019a1017f00f93e5c0b4b7204ca812b",
+  "notes": "New player: one menu for subtitles and audio, in many languages \u00b7 Player colors from each title's artwork \u00b7 Change source tries the others by itself \u00b7 BACK closes the controls first \u00b7 Live TV uses your four best accounts",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.12.apk"
 }
