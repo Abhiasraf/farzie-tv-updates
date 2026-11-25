@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "6.21",
-  "sha256": "28447fe8616bf19190d70955b1ceefb6a00e3fd1e0c628d88f25003aea7e8f7e",
-  "notes": "New player: one menu for subtitles and audio (website and OpenSubtitles, many languages) \u00b7 Subtitles and audio in the built-in player too \u00b7 Colors from each title's artwork, glass controls \u00b7 Change source tries the others by itself \u00b7 BACK closes the controls first",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.21.apk"
+  "versionCode": 57,
+  "versionName": "6.22",
+  "sha256": "ac270723dba8da78585a6475fc55dc2196143aa26ccddc67f55b71a53548ea89",
+  "notes": "The TV no longer goes to sleep while a live channel or game is playing \u00b7 Faster, steadier TMDB loading \u00b7 Live TV signs in to a few accounts at a time, with standbys",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.22.apk"
 }
