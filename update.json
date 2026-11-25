@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "5.9",
-  "sha256": "6102bf0e12d30e7932bedaaa39eda9f04f05d4b4daf107c3d2142c2d1942de43",
-  "notes": "Live TV opens on today's games and sits at the end of the top bar \u00b7 All channels loads faster \u00b7 Title pages show their buttons together once loaded",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.9.apk"
+  "versionCode": 40,
+  "versionName": "5.10",
+  "sha256": "c34ce046773d647cdec3973633dab532ca09b9b9fe2f9593497d72932a846c83",
+  "notes": "Recently Aired sits right under Continue Watching \u00b7 Bigg Boss, Khatron and Laughter Chefs are in My List \u00b7 New Bollywood & Trending Movies row \u00b7 Indian series without daily serials",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.10.apk"
 }
