@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
-  "versionName": "6.20",
-  "sha256": "d2d34c2c796ec06bb3c4eca4384c8a4e97294f66cd4b7ade07ce48faca15aa29",
+  "versionCode": 56,
+  "versionName": "6.21",
+  "sha256": "28447fe8616bf19190d70955b1ceefb6a00e3fd1e0c628d88f25003aea7e8f7e",
   "notes": "New player: one menu for subtitles and audio (website and OpenSubtitles, many languages) \u00b7 Subtitles and audio in the built-in player too \u00b7 Colors from each title's artwork, glass controls \u00b7 Change source tries the others by itself \u00b7 BACK closes the controls first",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.20.apk"
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.21.apk"
 }
