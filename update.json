@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "5.6",
-  "sha256": "86400eab8fea08067339df11491eeebdec69ad936b66986a826107dabe995e30",
-  "notes": "Same home as Asraf, My List to save titles, this year's popular and top rated, Indian and Pakistani moved up",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.6.apk"
+  "versionCode": 37,
+  "versionName": "5.7",
+  "sha256": "2bf192ebf9fcd75e44a0f2f342a35d89e810f0191ec9c6ca77b9c6a8495ff7e2",
+  "notes": "New Home with Bigg Boss, Khatron and Friends up top, live TV and player from Asraf TV, animated heart logo, still pink",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.7.apk"
 }
