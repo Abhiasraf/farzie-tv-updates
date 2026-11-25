@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "6.17",
-  "sha256": "77a030600517c06de0f52bdd4a47308cf39b98e6eb424476f2ad3cbf9d09be36",
-  "notes": "New Home order: Trending, Bollywood, Indian & Pakistani series, Asian (last 72 hours), then the big live games \u00b7 No My List row (it has its own tab)",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.17.apk"
+  "versionCode": 55,
+  "versionName": "6.20",
+  "sha256": "d2d34c2c796ec06bb3c4eca4384c8a4e97294f66cd4b7ade07ce48faca15aa29",
+  "notes": "New player: one menu for subtitles and audio (website and OpenSubtitles, many languages) \u00b7 Subtitles and audio in the built-in player too \u00b7 Colors from each title's artwork, glass controls \u00b7 Change source tries the others by itself \u00b7 BACK closes the controls first",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.20.apk"
 }
