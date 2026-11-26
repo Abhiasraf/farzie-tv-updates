@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "6.22",
-  "sha256": "ac270723dba8da78585a6475fc55dc2196143aa26ccddc67f55b71a53548ea89",
-  "notes": "The TV no longer goes to sleep while a live channel or game is playing \u00b7 Faster, steadier TMDB loading \u00b7 Live TV signs in to a few accounts at a time, with standbys",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.22.apk"
+  "versionCode": 58,
+  "versionName": "6.23",
+  "sha256": "724dbeaacfb1b83ed311845c6b41ca682c62016c396d495e99aa3ab587294bdf",
+  "notes": "Refresh button now in the Sports event guide too: re-checks which of your channels carry each event, with the percentage shown in the button",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.23.apk"
 }
