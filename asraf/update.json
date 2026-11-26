@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "6.24",
-  "sha256": "35a944a5ff4023185a9a2226f97c1395c7039bb95d77281ec043a3c34a6cb83c",
-  "notes": "Hold OK on a Continue Watching card to remove it (with a glass menu) \u00b7 When the movie database is busy it no longer says you're offline; your saved rows stay",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.24.apk"
+  "versionCode": 60,
+  "versionName": "6.25",
+  "sha256": "53300b25fa32323e3625ea8cb714336e0f22b4a97085b992b0c7fe7e42a38848",
+  "notes": "Title pages open instantly and make far fewer calls to the movie database (cached for the day) \u00b7 A remembered server gets 7 seconds to start before the app tries the others",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.25.apk"
 }
