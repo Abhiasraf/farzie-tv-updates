@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "6.25",
-  "sha256": "53300b25fa32323e3625ea8cb714336e0f22b4a97085b992b0c7fe7e42a38848",
-  "notes": "Title pages open instantly and make far fewer calls to the movie database (cached for the day) \u00b7 A remembered server gets 7 seconds to start before the app tries the others",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.25.apk"
+  "versionCode": 61,
+  "versionName": "6.26",
+  "sha256": "c4cb4c303f5b346d7fe2244ce3e6e61d77f66b4787dc7f59584858fa73e0d505",
+  "notes": "Episodes now show each episode's own image, in smaller tiles so more fit on screen (a show's artwork stands in when an episode has no image)",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.26.apk"
 }
