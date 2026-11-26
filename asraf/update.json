@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "6.23",
-  "sha256": "724dbeaacfb1b83ed311845c6b41ca682c62016c396d495e99aa3ab587294bdf",
-  "notes": "Refresh button now in the Sports event guide too: re-checks which of your channels carry each event, with the percentage shown in the button",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.23.apk"
+  "versionCode": 59,
+  "versionName": "6.24",
+  "sha256": "35a944a5ff4023185a9a2226f97c1395c7039bb95d77281ec043a3c34a6cb83c",
+  "notes": "Hold OK on a Continue Watching card to remove it (with a glass menu) \u00b7 When the movie database is busy it no longer says you're offline; your saved rows stay",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.24.apk"
 }
