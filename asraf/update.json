@@ -1,7 +1,7 @@
 {
-  "versionCode": 67,
-  "versionName": "6.32",
-  "sha256": "03c2296d10ecf01dbdff077b89d418e106dccfbefb6875139a6a49cb4e0cda8e",
-  "notes": "Unified Material You + Liquid Glass player across both video engines: new sleek vector seek and play/pause icons, glowing progress thumb, unified Quality · Subtitles · Audio · Speed · Fit · Server controls, Skip Intro / Recap everywhere, and an Up Next countdown card that chains into the next episode.",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.32.apk"
+  "versionCode": 72,
+  "versionName": "6.37",
+  "sha256": "5c5584b8480f00d9948285420d20336aecceddffefda5038a97172b7e9bc261d",
+  "notes": "Play via Torrent + server updates + major stability pass: fixed RARBG/ETRG torrent filtering, smoother seeking & instant cancel, fixed source-switch dual audio & crashes, fixed memory/thread leaks across Home, Details, Search and Live TV, and preserved Live TV favorites across busy accounts.",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.37.apk"
 }
