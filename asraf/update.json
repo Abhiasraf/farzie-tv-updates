@@ -1,7 +1,7 @@
 {
-  "versionCode": 73,
-  "versionName": "6.38",
-  "sha256": "884f1e98f242b6f76d2647b2b86ee29ae795a2923dfa88b598eb061d5c889a20",
-  "notes": "Server failover fix: scoped failure cooldowns per season/title so one unavailable older season never blocks working seasons on the same server, plus improved season detection across all server formats.",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.38.apk"
+  "versionCode": 74,
+  "versionName": "6.39",
+  "sha256": "de022deee2c945a7d8b8cd41c9bec5d5a1af6ffc9289ce1f9896b7fa642bf279",
+  "notes": "Smarter streaming: auto-switches a server's internal source before giving up, an HLS quality selector, and fewer leftover pop-up players — merged with the latest stability fixes",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.39.apk"
 }
