@@ -1,7 +1,7 @@
 {
-  "versionCode": 66,
-  "versionName": "6.31",
-  "sha256": "d722c4149270a3425483fe12d9282384348c2ac37c48f818fbe621671884e712",
-  "notes": "Mark episodes watched or unwatched by hand anywhere — hold OK on an episode, or on a Continue Watching / Recently Aired card. One shared watched state keeps every screen, Continue Watching and progress in sync.",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.31.apk"
+  "versionCode": 67,
+  "versionName": "6.32",
+  "sha256": "03c2296d10ecf01dbdff077b89d418e106dccfbefb6875139a6a49cb4e0cda8e",
+  "notes": "Unified Material You + Liquid Glass player across both video engines: new sleek vector seek and play/pause icons, glowing progress thumb, unified Quality · Subtitles · Audio · Speed · Fit · Server controls, Skip Intro / Recap everywhere, and an Up Next countdown card that chains into the next episode.",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.32.apk"
 }
