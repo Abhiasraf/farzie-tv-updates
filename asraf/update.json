@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "6.29",
-  "sha256": "48e7e98c8f2104248578fe3341eb2c05aafb377f8c925e26d23c2e509565ece6",
-  "notes": "Cleaner show pages: episode thumbnails now in full colour with the focused one standing out, a slimmer glass description panel for the selected episode, and watched episodes marked in green",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.29.apk"
+  "versionCode": 65,
+  "versionName": "6.30",
+  "sha256": "2f9eb26c993909ba2e0bfb942008c21261a4d76d906dd2e1ec142f378a117600",
+  "notes": "Polished episode selection: full-width episode description, rounded episode thumbnails, and a smoother focus halo with a soft pink glow so the selected episode stands out clearly",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.30.apk"
 }
