@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "5.14",
-  "sha256": "bc4b07d3d82358108bb5a0a66ff09cbedb2a072b21660357b03ae5cfe41d7a33",
-  "notes": "Everything from the latest Asraf TV, in Farzie TV · Rounded episode cards with a softer focus glow · Mark episodes watched or unwatched by hand · Grey's Anatomy and Friends added to My List · Fuller, romance-first Trending and Popular rows",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.14.apk"
+  "versionCode": 45,
+  "versionName": "5.15",
+  "sha256": "8fd483b743f58005dc8f1e6c72d55c326ea8cc8fdc2629e62f9ae32a864d0dc4",
+  "notes": "Unified Material You + Liquid Glass player across both video engines · Sleek new vector seek and play/pause icons with a glowing progress thumb · Unified Quality, Subtitles, Audio, Speed, Picture Fit & Change Server controls · Skip Intro / Recap everywhere · Up Next countdown card that flows straight into the next episode",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.15.apk"
 }
