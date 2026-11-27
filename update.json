@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "5.18",
-  "sha256": "c745d085e9ef71907a9d9c638e2fa763626e2a1923b3d215930a5df6768e65ca",
-  "notes": "Server failover fix · One unavailable older season no longer blocks working seasons on the same server · Faster Khatron Ke Khiladi Season 6 playback",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.18.apk"
+  "versionCode": 49,
+  "versionName": "5.19",
+  "sha256": "dbd6591139200a334c90869c93eaae865978faa0e14769df65e91452e8300ae9",
+  "notes": "Smarter streaming: auto-switches a server's internal source before giving up, an HLS quality selector, auto-dismisses Start over / Resume popups, and fewer leftover pop-up players — with the latest stability fixes",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.19.apk"
 }
