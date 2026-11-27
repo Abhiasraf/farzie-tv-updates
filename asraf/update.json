@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "7.0",
-  "sha256": "12b4e0e68aa970aa969c539f118c8c86d254318832e3174908d4711b993ca39c",
-  "notes": "Videos start playing right away when you resume — no paused first frame · If a stream freezes mid-episode, it now switches to another server on its own · Subtitles stay off once you turn them off · Auto-switches a server's internal source before giving up · New HLS quality picker · Fewer stray pop-ups for smoother playback",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-7.0.apk"
+  "versionCode": 77,
+  "versionName": "7.1",
+  "sha256": "601bdba4c6892e404016528461f18dc20cef4d4332fd5747d1162d088f9a2a5a",
+  "notes": "If the player ever freezes mid-episode, it now detects it and reloads the stream on its own — no more stuck black screen · Stops stray background videos from piling up and freezing playback · Resumes start playing right away · Subtitles stay off once you turn them off · Smarter server switching with an HLS quality picker",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-7.1.apk"
 }
