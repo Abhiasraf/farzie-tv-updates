@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "5.17",
-  "sha256": "f5d8af9bde3076766d5cb798484b630d2e27b7f315673730af41a7c9edfba6d9",
-  "notes": "Major stability & polish update · Fixed torrent RARBG/ETRG filtering, seeking & instant cancel · Fixed source-switch crashes & dual audio · Fixed subtitle layering, Up Next auto-play, memory/thread leaks, and Live TV favorites preservation",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.17.apk"
+  "versionCode": 48,
+  "versionName": "5.18",
+  "sha256": "c745d085e9ef71907a9d9c638e2fa763626e2a1923b3d215930a5df6768e65ca",
+  "notes": "Server failover fix · One unavailable older season no longer blocks working seasons on the same server · Faster Khatron Ke Khiladi Season 6 playback",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.18.apk"
 }
