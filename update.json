@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "5.13",
-  "sha256": "83c8f9372d717120b6f22ad6eb7490c995b5109155f6adeaec2702eed92d5335",
-  "notes": "The TV no longer goes to sleep while a live channel or game is playing \u00b7 Faster, steadier TMDB loading \u00b7 Live TV uses the newer accounts",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.13.apk"
+  "versionCode": 44,
+  "versionName": "5.14",
+  "sha256": "bc4b07d3d82358108bb5a0a66ff09cbedb2a072b21660357b03ae5cfe41d7a33",
+  "notes": "Everything from the latest Asraf TV, in Farzie TV · Rounded episode cards with a softer focus glow · Mark episodes watched or unwatched by hand · Grey's Anatomy and Friends added to My List · Fuller, romance-first Trending and Popular rows",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.14.apk"
 }
