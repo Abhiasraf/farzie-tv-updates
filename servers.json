@@ -7,9 +7,7 @@
     "https://7movies.ws/tv/{id}/watch?season={s}&episode={e}",
     "https://zoryva.me/tv/{id}/x/{s}/{e}",
     "https://www.movy.sx/tv/{id}?s={s}&e={e}&play=true",
-    "https://lightflix.app/en/watch/tv/{id}-{s}-{e}",
-    "https://arrowtv.net/watch/tv/{id}?season={s}&episode={e}",
-    "https://www.rivestream.app/watch?type=tv&id={id}&season={s}&episode={e}"
+    "https://lightflix.app/en/watch/tv/{id}-{s}-{e}"
   ],
   "movie": [
     "https://web.nxsha.app/watch/movie/{id}",
@@ -22,12 +20,10 @@
     "https://aether.st/media/tmdb-movie-{id}-x",
     "https://cinefork.net/media/tmdb-movie-{id}-x",
     "https://fmfau.com/media/tmdb-movie-{id}-x",
-    "https://arrowtv.net/watch/movie/{id}",
     "https://www.cinezo.st/watch/movie/{id}",
     "https://www.chillflix.lol/movie/{id}?play=true",
     "https://cinemove.cc/watch/movie/{id}",
-    "https://lightflix.app/en/watch/movie/{id}",
-    "https://www.rivestream.app/watch?type=movie&id={id}"
+    "https://lightflix.app/en/watch/movie/{id}"
   ],
   "hints": {
     "tv:85518": "novahd.cc",
