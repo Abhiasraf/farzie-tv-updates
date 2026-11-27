@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "5.15",
-  "sha256": "8fd483b743f58005dc8f1e6c72d55c326ea8cc8fdc2629e62f9ae32a864d0dc4",
-  "notes": "Unified Material You + Liquid Glass player across both video engines · Sleek new vector seek and play/pause icons with a glowing progress thumb · Unified Quality, Subtitles, Audio, Speed, Picture Fit & Change Server controls · Skip Intro / Recap everywhere · Up Next countdown card that flows straight into the next episode",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.15.apk"
+  "versionCode": 46,
+  "versionName": "5.16",
+  "sha256": "31cde66b420e4f1c05c79aab1a39e9b1578bf39ffe000206a3a89f3563b90fa5",
+  "notes": "Added server updates · Faster source failover and smoother playback · Play via Torrent option on movies and episodes",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.16.apk"
 }
