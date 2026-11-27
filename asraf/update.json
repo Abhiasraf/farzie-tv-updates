@@ -1,7 +1,7 @@
 {
-  "versionCode": 65,
-  "versionName": "6.30",
-  "sha256": "2f9eb26c993909ba2e0bfb942008c21261a4d76d906dd2e1ec142f378a117600",
-  "notes": "Polished episode selection: full-width episode description, rounded episode thumbnails, and a smoother focus halo with a soft pink glow so the selected episode stands out clearly",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.30.apk"
+  "versionCode": 66,
+  "versionName": "6.31",
+  "sha256": "d722c4149270a3425483fe12d9282384348c2ac37c48f818fbe621671884e712",
+  "notes": "Mark episodes watched or unwatched by hand anywhere — hold OK on an episode, or on a Continue Watching / Recently Aired card. One shared watched state keeps every screen, Continue Watching and progress in sync.",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.31.apk"
 }
