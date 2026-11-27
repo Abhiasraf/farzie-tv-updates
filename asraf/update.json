@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "7.2",
-  "sha256": "48dbaa641ad27b51881d26c2463fb85713ad9c4f7531cf9631b734ce4e0d826c",
-  "notes": "Faster, cleaner server failover: fixed a race that could skip a healthy backup server right after switching · Hardened mid-playback stall recovery when backgrounding or reloading · Dropped dead servers from the rotation",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-7.2.apk"
+  "versionCode": 79,
+  "versionName": "7.3",
+  "sha256": "ac12ecdb0885d8c5a0dd15f7d6382b15b09a16a6dfe46c52684f197d2b2f77ee",
+  "notes": "Fixed mid-playback screen & audio freezes on TVs using USB/external storage by moving progress saves to a single non-blocking background write every 60s",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-7.3.apk"
 }
