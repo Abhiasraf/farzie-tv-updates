@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "6.27",
-  "sha256": "1ef70ec515bb7095132efba1c4912d38d7e39890e09a142a1f5fb3f491ebfd40",
-  "notes": "Trending and Popular rows fixed to show the full week's movies and shows (no more single result) \u00b7 Episodes now show their real titles and a description, with the season/episode number",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.27.apk"
+  "versionCode": 63,
+  "versionName": "6.28",
+  "sha256": "5029a10f02be80e5229264871ba25f364d9ea4a1cb2dee247fe5f7f6a3c796dd",
+  "notes": "Redesigned show pages: focused episode stands out (white ring, full colour, others grayscale), rounded thumbnails, a glass description panel with each episode's title and summary, cleaner buttons, info and metadata, calmer backdrop",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-6.28.apk"
 }
