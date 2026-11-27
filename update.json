@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "5.19",
-  "sha256": "dbd6591139200a334c90869c93eaae865978faa0e14769df65e91452e8300ae9",
-  "notes": "Smarter streaming: auto-switches a server's internal source before giving up, an HLS quality selector, auto-dismisses Start over / Resume popups, and fewer leftover pop-up players — with the latest stability fixes",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.19.apk"
+  "versionCode": 50,
+  "versionName": "5.20",
+  "sha256": "e8ee1351dd89305bd443f4e86bb31dccf38507774fa3a32e6ed1ffa2a164115c",
+  "notes": "Auto-recovers if a stream freezes mid-episode · Resumes start playing right away without a paused first frame · Subtitles stay off once turned off · Stops stray background videos from freezing playback · Fixed server-switch race so backup servers aren't skipped",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.20.apk"
 }
