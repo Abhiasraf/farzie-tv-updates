@@ -4,6 +4,7 @@
     "https://vidlink.pro/tv/{id}/{s}/{e}?autoplay=true",
     "https://vidfast.pro/tv/{id}/{s}/{e}?autoPlay=true",
     "https://111movies.com/tv/{id}/{s}/{e}",
+    "https://atlantic.st/embed/tv/{id}/{s}/{e}",
     "https://rivestream.st/embed?type=tv&id={id}&season={s}&episode={e}",
     "https://7movies.ws/tv/{id}/watch?season={s}&episode={e}",
     "https://vidrock.net/tv/{id}/{s}/{e}",
@@ -24,6 +25,7 @@
     "https://vidlink.pro/movie/{id}?autoplay=true",
     "https://vidfast.pro/movie/{id}?autoPlay=true",
     "https://111movies.com/movie/{id}",
+    "https://atlantic.st/embed/movie/{id}",
     "https://rivestream.st/embed?type=movie&id={id}",
     "https://vidrock.net/movie/{id}",
     "https://vidsrc.to/embed/movie/{id}",
@@ -44,7 +46,7 @@
     "https://nxsha.space/watch/movie/{id}"
   ],
   "hints": {
-    "tv:85518": "7movies.ws,vidrock.net,zoryva.me,web.nxsha.app",
+    "tv:85518": "7movies.ws,vidrock.net,atlantic.st,zoryva.me,web.nxsha.app",
     "tv:11436:s20": "web.nxsha.app,7movies.ws,vidrock.net"
   },
   "daily": {
