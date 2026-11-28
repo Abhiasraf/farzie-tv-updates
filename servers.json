@@ -8,7 +8,9 @@
     "https://zoryva.me/tv/{id}/x/{s}/{e}",
     "https://www.movy.sx/tv/{id}?s={s}&e={e}&play=true",
     "https://lightflix.app/en/watch/tv/{id}-{s}-{e}",
-    "https://reeflix.st/watch/tv/{id}?season={s}&episode={e}"
+    "https://reeflix.st/watch/tv/{id}?season={s}&episode={e}",
+    "https://www.chillflix.pw/embed/tv/{id}/{s}/{e}?autoplay=true",
+    "https://coreflix.tv/watch/tv/{id}/{s}/{e}"
   ],
   "movie": [
     "https://web.nxsha.app/watch/movie/{id}",
@@ -26,7 +28,9 @@
     "https://cinemove.cc/watch/movie/{id}",
     "https://lightflix.app/en/watch/movie/{id}",
     "https://reeflix.st/watch/movie/{id}",
-    "https://flixer.gd/watch/movie/{id}"
+    "https://flixer.gd/watch/movie/{id}",
+    "https://www.chillflix.pw/embed/movie/{id}?autoplay=true",
+    "https://coreflix.tv/watch/movie/{id}"
   ],
   "hints": {
     "tv:85518": "novahd.cc",
