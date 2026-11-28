@@ -7,7 +7,8 @@
     "https://coreflix.tv/watch/tv/{id}/{s}/{e}",
     "https://7movies.ws/tv/{id}/watch?season={s}&episode={e}",
     "https://web.nxsha.app/watch/tv/{id}/{s}/{e}",
-    "https://nxsha.space/watch/tv/{id}/{s}/{e}"
+    "https://nxsha.space/watch/tv/{id}/{s}/{e}",
+    "https://zoryva.me/tv/{id}/x/{s}/{e}"
   ],
   "movie": [
     "https://reeflix.st/watch/movie/{id}",
@@ -23,6 +24,7 @@
     "https://nxsha.space/watch/movie/{id}"
   ],
   "hints": {
+    "tv:85518": "zoryva.me",
     "tv:11436:s20": "web.nxsha.app"
   },
   "daily": {
