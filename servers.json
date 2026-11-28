@@ -46,7 +46,7 @@
     "https://nxsha.space/watch/movie/{id}"
   ],
   "hints": {
-    "tv:85518": "7movies.ws,vidrock.net,atlantic.st,zoryva.me,web.nxsha.app",
+    "tv:85518": "zoryva.me,7movies.ws,vidrock.net,web.nxsha.app",
     "tv:11436:s20": "web.nxsha.app,7movies.ws,vidrock.net"
   },
   "daily": {
