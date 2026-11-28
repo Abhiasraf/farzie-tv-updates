@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "5.20",
-  "sha256": "e8ee1351dd89305bd443f4e86bb31dccf38507774fa3a32e6ed1ffa2a164115c",
-  "notes": "Auto-recovers if a stream freezes mid-episode · Resumes start playing right away without a paused first frame · Subtitles stay off once turned off · Stops stray background videos from freezing playback · Fixed server-switch race so backup servers aren't skipped",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.20.apk"
+  "versionCode": 51,
+  "versionName": "5.21",
+  "sha256": "dea5cbbb7682a0290266cad6076b3b0c1437585ae55ca8fbea144dc00e9f54a7",
+  "notes": "Effortless Subtitle Sync — Auto-pausing, one-step subtitle sync lets you match the exact line you just heard and remembers your timing per episode · Automatic Best-Server Selection — Background speed and health checks pick the fastest working stream automatically, with a Choose Source option right on the loading screen · Expanded TV & Movie Servers — More verified streaming sources with smarter failover that resumes right where you left off · Smoother, Freeze-Free Playback — Non-blocking progress saves, auto-unmuted starts, and zero website overlays · Continue Watching Up Next — Automatically queues your next episode across seasons",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.21.apk"
 }
