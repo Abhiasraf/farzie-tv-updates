@@ -1,16 +1,18 @@
 {
-  "note": "Players for Farzie TV and Asraf TV. {id} = TMDB id, {s} = season, {e} = episode. Tried in order; hints say which to try first for a show (tv:ID) or season (tv:ID:sN). Edit and push: TVs pick it up the next time the app opens. 'daily' maps a season to its YoDesi show page name (episodes found by air date).",
+  "note": "Players for Farzie TV and Asraf TV. {id} = TMDB id, {s} = season, {e} = episode. Tried in order; hints say which to try first for a show (tv:ID) or season (tv:ID:sN) and accept comma-separated priority lists. Edit and push: TVs pick it up the next time the app opens. 'daily' maps a season to its YoDesi show page name (episodes found by air date).",
   "tv": [
     "https://vidlink.pro/tv/{id}/{s}/{e}?autoplay=true",
     "https://vidfast.pro/tv/{id}/{s}/{e}?autoPlay=true",
     "https://111movies.com/tv/{id}/{s}/{e}",
     "https://rivestream.st/embed?type=tv&id={id}&season={s}&episode={e}",
-    "https://zoryva.me/tv/{id}/x/{s}/{e}",
+    "https://7movies.ws/tv/{id}/watch?season={s}&episode={e}",
     "https://vidrock.net/tv/{id}/{s}/{e}",
+    "https://vidsrc.to/embed/tv/{id}/{s}/{e}",
+    "https://zoryva.me/tv/{id}/x/{s}/{e}",
+    "https://vidjoy.pro/embed/tv/{id}/{s}/{e}",
     "https://watch.corsflix.net/watch/tv/{id}?season={s}&episode={e}",
     "https://hexa.su/watch/tv/{id}/{s}/{e}",
     "https://flixer.gd/watch/tv/{id}/{s}/{e}",
-    "https://7movies.ws/tv/{id}/watch?season={s}&episode={e}",
     "https://www.chillflix.pw/embed/tv/{id}/{s}/{e}?autoplay=true",
     "https://coreflix.tv/watch/tv/{id}/{s}/{e}",
     "https://reeflix.st/watch/tv/{id}?season={s}&episode={e}",
@@ -24,6 +26,8 @@
     "https://111movies.com/movie/{id}",
     "https://rivestream.st/embed?type=movie&id={id}",
     "https://vidrock.net/movie/{id}",
+    "https://vidsrc.to/embed/movie/{id}",
+    "https://vidjoy.pro/embed/movie/{id}",
     "https://watch.corsflix.net/watch/movie/{id}",
     "https://hexa.su/watch/movie/{id}",
     "https://flixer.gd/watch/movie/{id}",
@@ -40,8 +44,8 @@
     "https://nxsha.space/watch/movie/{id}"
   ],
   "hints": {
-    "tv:85518": "zoryva.me",
-    "tv:11436:s20": "web.nxsha.app"
+    "tv:85518": "7movies.ws,vidrock.net,vidsrc.to,zoryva.me,vidjoy.pro,web.nxsha.app",
+    "tv:11436:s20": "web.nxsha.app,7movies.ws,vidrock.net"
   },
   "daily": {
     "tv:11436:s20": "bigg-boss-20",
