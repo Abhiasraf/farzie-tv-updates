@@ -1,40 +1,28 @@
 {
   "note": "Players for Farzie TV and Asraf TV. {id} = TMDB id, {s} = season, {e} = episode. Tried in order; hints say which to try first for a show (tv:ID) or season (tv:ID:sN). Edit and push: TVs pick it up the next time the app opens. 'daily' maps a season to its YoDesi show page name (episodes found by air date).",
   "tv": [
-    "https://www.movy.sx/tv/{id}?s={s}&e={e}&play=true",
     "https://lightflix.app/en/watch/tv/{id}-{s}-{e}",
     "https://reeflix.st/watch/tv/{id}?season={s}&episode={e}",
     "https://www.chillflix.pw/embed/tv/{id}/{s}/{e}?autoplay=true",
     "https://coreflix.tv/watch/tv/{id}/{s}/{e}",
     "https://7movies.ws/tv/{id}/watch?season={s}&episode={e}",
     "https://web.nxsha.app/watch/tv/{id}/{s}/{e}",
-    "https://novahd.cc/watch/s/{id}/{s}/{e}",
-    "https://nxsha.space/watch/tv/{id}/{s}/{e}",
-    "https://zoryva.me/tv/{id}/x/{s}/{e}"
+    "https://nxsha.space/watch/tv/{id}/{s}/{e}"
   ],
   "movie": [
-    "https://www.movy.sx/movie/{id}?play=true",
     "https://reeflix.st/watch/movie/{id}",
     "https://lightflix.app/en/watch/movie/{id}",
     "https://flixer.gd/watch/movie/{id}",
     "https://www.chillflix.pw/embed/movie/{id}?autoplay=true",
     "https://coreflix.tv/watch/movie/{id}",
     "https://7movies.ws/movie/{id}/watch",
-    "https://web.nxsha.app/watch/movie/{id}",
-    "https://novahd.cc/watch/m/{id}",
-    "https://nxsha.space/watch/movie/{id}",
-    "https://zoryva.me/movie/{id}/x",
-    "https://basement.rest/media/tmdb-movie-{id}-x",
-    "https://aether.st/media/tmdb-movie-{id}-x",
+    "https://www.chillflix.lol/movie/{id}?play=true",
     "https://cinefork.net/media/tmdb-movie-{id}-x",
-    "https://fmfau.com/media/tmdb-movie-{id}-x",
-    "https://www.chillflix.lol/movie/{id}?play=true"
+    "https://aether.st/media/tmdb-movie-{id}-x",
+    "https://web.nxsha.app/watch/movie/{id}",
+    "https://nxsha.space/watch/movie/{id}"
   ],
   "hints": {
-    "tv:85518": "zoryva.me",
-    "tv:257530": "novahd.cc",
-    "tv:11436:s2": "novahd.cc",
-    "tv:11436:s3": "novahd.cc",
     "tv:11436:s20": "web.nxsha.app"
   },
   "daily": {
