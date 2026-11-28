@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "5.21",
-  "sha256": "dea5cbbb7682a0290266cad6076b3b0c1437585ae55ca8fbea144dc00e9f54a7",
-  "notes": "Effortless Subtitle Sync — Auto-pausing, one-step subtitle sync lets you match the exact line you just heard and remembers your timing per episode · Automatic Best-Server Selection — Background speed and health checks pick the fastest working stream automatically, with a Choose Source option right on the loading screen · Expanded TV & Movie Servers — More verified streaming sources with smarter failover that resumes right where you left off · Smoother, Freeze-Free Playback — Non-blocking progress saves, auto-unmuted starts, and zero website overlays · Continue Watching Up Next — Automatically queues your next episode across seasons",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-5.21.apk"
+  "versionCode": 52,
+  "versionName": "6.0",
+  "sha256": "627a92d85cff810c466d428e01bff6715b1b694e93f378ccbcb8b6f8d577f0fc",
+  "notes": "Redesigned Search (Obsidian Liquid Glass keyboard dock, Popular in 2026 feed, fuzzy search) & Episode Details (16:9 Apple TV+ cards, segmented season picker, Hero Torrent button) · Redesigned Live TV & Sports Hub (Live games always first, Smart Event Matcher, Football line-ups, Cricket Match Summary, Basketball Box Score, and automatic failover on stuttering streams) · Zero-WebView Kaizoku & Einthusan direct streams + automatic HLS native player handoff · Faster Torrent startup with active-source checkmark · Major ANR and freeze fixes across Settings, Details, and Live TV",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/apk/FarzieTV-6.0.apk"
 }
