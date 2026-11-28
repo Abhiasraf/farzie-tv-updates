@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "7.3",
-  "sha256": "ac12ecdb0885d8c5a0dd15f7d6382b15b09a16a6dfe46c52684f197d2b2f77ee",
-  "notes": "Fixed mid-playback screen & audio freezes on TVs using USB/external storage by moving progress saves to a single non-blocking background write every 60s",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-7.3.apk"
+  "versionCode": 99,
+  "versionName": "7.22",
+  "sha256": "4b504637baf4e7d63191a3b91d42f304ac39d8e94d223805e7d40f54852e6be2",
+  "notes": "Automatic best-server selection picks the fastest working stream for you, with an optional Choose Source button on the loading screen · Expanded TV and movie server lineup with faster failover and mid-episode resume · One-step auto-pausing Subtitle Sync that saves your timing per episode · Smoother TV playback without mid-episode freezes, website overlays, or muted autoplay banners · Continue Watching now queues your next episode automatically across seasons",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-7.22.apk"
 }
