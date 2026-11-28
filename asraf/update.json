@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "7.24",
-  "sha256": "97dd960cd8e94219bdd124f81cff87036ba0fd9d4c8cfcdb5490a0d928c07ed1",
-  "notes": "Redesigned Live TV with Obsidian Liquid Glass across Sports Hub, All Channels, Categories, and the fullscreen player · Unified top navigation bar matching Home, TV Shows, Movies, and My List · Redesigned Football line-ups (dark-emerald pitch & team-colored badges), Cricket Match Summary (with adaptive 2×2 4-innings Test grid), and Basketball Box Score · Smart Live Event Matcher dynamically discovers up to 12 live sources per game with a Sources picker, stale-date filtering, and automatic 10-second failover",
-  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-7.24.apk"
+  "versionCode": 107,
+  "versionName": "8.0",
+  "sha256": "99a9bd63cba67a3de470748bd4e8cf3b075ac9decd698db634993c4120bfbf29",
+  "notes": "Redesigned Search (Obsidian Liquid Glass keyboard dock, Popular in 2026 feed, fuzzy search) & Episode Details (16:9 Apple TV+ cards, segmented season picker, Hero Torrent button) · Zero-WebView Kaizoku & Einthusan direct streams + automatic WebView-to-ExoPlayer HLS handoff · Faster Torrent startup with active-source checkmark · Sports Hub now always puts Live games first · Automatic Live TV failover on kicked/stuttering streams · Major ANR, GC, and freeze fixes across Settings, Details, and Live TV",
+  "apk": "https://raw.githubusercontent.com/abhiasraf/farzie-tv-updates/main/asraf/AsrafTV-8.0.apk"
 }
